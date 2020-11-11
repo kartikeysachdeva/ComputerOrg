@@ -1,2 +1,2 @@
 # Verilog
-Projects and practice problems for C++
+Projects and practice problems for Verilog
