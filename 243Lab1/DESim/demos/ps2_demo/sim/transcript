@@ -1,0 +1,37 @@
+# vsim -pli "simfpga.vpi" -Lf 220model -Lf altera_mf_ver -Lf verilog -c -do "run -all" tb 
+# Start time: 15:22:42 on Jan 11,2021
+# //  ModelSim - Intel FPGA Edition 10.5b Oct  5 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim - Intel FPGA Edition and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading work.tb
+# Loading work.top
+# Loading work.PS2_Comm
+# Loading work.PS2_Controller
+# Loading work.Altera_UP_PS2_Data_In
+# Loading work.Altera_UP_PS2_Command_Out
+# Loading work.Hexadecimal_To_Seven_Segment
+# Loading work.keyboard_interface
+# Loading work.ps2_data_out
+# Loading work.ps2_command_in
+# Loading ./simfpga.vpi
+# run -all
+# Time scaling: 0.0001 sim seconds per real-time second
+# 
+# 
+# Connected to server!
+# ** Note: $finish    : ../tb/tb.v(24)
+#    Time: 106605 us  Iteration: 1  Instance: /tb
+# 
+# Quitting...
+# End time: 15:23:38 on Jan 11,2021, Elapsed time: 0:00:56
+# Errors: 0, Warnings: 0

@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dW:/DESim/demos/LED_HEX/sim
+vtb
+!s110 1611385756
+!i10b 1
+!s100 hTj^;2FV1Y2mRD]WDVX8>1
+I5]nGZE=WJP0?3<G>Yld9N0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1608743566
+8../tb/tb.v
+F../tb/tb.v
+L0 6
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1611385756.000000
+!s107 ../tb/tb.v|
+!s90 ../tb/tb.v|
+!i113 1
+Z4 tCvgOpt 0
+vtop
+!s110 1611385757
+!i10b 1
+!s100 =iCTQ22ZN`8FOZj_[dI2J1
+IzM?eC3j;>18Knm]NMbmJ01
+R1
+R0
+w1610169986
+8../top.v
+F../top.v
+L0 3
+R2
+r1
+!s85 0
+31
+R3
+!s107 ../top.v|
+!s90 ../top.v|
+!i113 1
+R4

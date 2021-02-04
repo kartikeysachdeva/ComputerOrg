@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/DESim/demos/GPIO/gpio_in_demo/sim
+vtb
+Z1 !s110 1610648455
+!i10b 1
+!s100 1e5SD5Z0ob6mEY58Oim[<3
+IVB0=Od9Uk3l]DTKXcJnZB1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1610158588
+8../tb/tb.v
+F../tb/tb.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1610648455.000000
+!s107 ../tb/tb.v|
+!s90 ../tb/tb.v|
+!i113 1
+Z5 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 UPA^=<Z]lYeCiO_IA_?7>0
+Igj]>=zf1]9l8[9W?co>EA2
+R2
+R0
+w1610158372
+8../top.v
+F../top.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../top.v|
+!s90 ../top.v|
+!i113 1
+R5

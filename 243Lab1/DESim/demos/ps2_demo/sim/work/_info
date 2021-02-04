@@ -1,0 +1,215 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dU:/DESim/demos/ps2_demo/sim
+vAltera_UP_PS2_Command_Out
+Z1 !s110 1610396560
+!i10b 1
+!s100 aNPOnoKE9LT_`:OZGRn7L3
+I=zA1zfZ[AAaBFmZVjJ1P=1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1605158372
+8../Altera_UP_PS2_Command_Out.v
+F../Altera_UP_PS2_Command_Out.v
+Z4 L0 10
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1610396560.000000
+Z7 !s107 ../top.v|../PS2_Controller.v|../PS2_Comm.v|../Hexadecimal_To_Seven_Segment.v|../Altera_UP_PS2_Data_In.v|../Altera_UP_PS2_Command_Out.v|
+Z8 !s90 ../Altera_UP_PS2_Command_Out.v|../Altera_UP_PS2_Data_In.v|../Hexadecimal_To_Seven_Segment.v|../PS2_Comm.v|../PS2_Controller.v|../top.v|
+!i113 1
+Z9 tCvgOpt 0
+n@altera_@u@p_@p@s2_@command_@out
+vAltera_UP_PS2_Data_In
+R1
+!i10b 1
+!s100 oXDGJ?a^iVhim`R_B0]Jz0
+ISR_`?kUIn3bfMmT_W9GFG0
+R2
+R0
+R3
+8../Altera_UP_PS2_Data_In.v
+F../Altera_UP_PS2_Data_In.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+n@altera_@u@p_@p@s2_@data_@in
+vHexadecimal_To_Seven_Segment
+R1
+!i10b 1
+!s100 VN50AhJ8NWf^zOC1?CXcc0
+IkZATOCzCVMXWSHd=k__m51
+R2
+R0
+R3
+8../Hexadecimal_To_Seven_Segment.v
+F../Hexadecimal_To_Seven_Segment.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+n@hexadecimal_@to_@seven_@segment
+vkeyboard_interface
+R1
+!i10b 1
+!s100 Qk1mBH6Fl]1[Uke3`lYP_3
+I3JYK8I^zP69lDZ4C81g8n3
+R2
+R0
+w1610396558
+8../tb/keyboard_interface.v
+F../tb/keyboard_interface.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 ../tb/tb.v|../tb/ps2_data_out.v|../tb/ps2_command_in.v|../tb/keyboard_interface.v|
+Z11 !s90 ../tb/keyboard_interface.v|../tb/ps2_command_in.v|../tb/ps2_data_out.v|../tb/tb.v|
+!i113 1
+R9
+vPS2_Comm
+R1
+!i10b 1
+!s100 9E>S0m`EG_=>JZi8i9i@Z2
+Ibi4IkBelAmSB:JcN8_c6m3
+R2
+R0
+R3
+8../PS2_Comm.v
+F../PS2_Comm.v
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+n@p@s2_@comm
+vps2_command_in
+R1
+!i10b 1
+!s100 LU2eIOURH>8KQM5O5;nHG3
+I?QN^J?CAe[f;5>lZ`<Z2`3
+R2
+R0
+w1610394696
+8../tb/ps2_command_in.v
+F../tb/ps2_command_in.v
+L0 6
+R5
+r1
+!s85 0
+31
+R6
+R10
+R11
+!i113 1
+R9
+vPS2_Controller
+R1
+!i10b 1
+!s100 Iz>eaZVB?jofS8:Zm[Dzd3
+IQjS<FdW1g0z;;eB7_nKPH0
+R2
+R0
+R3
+8../PS2_Controller.v
+F../PS2_Controller.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+n@p@s2_@controller
+vps2_data_out
+R1
+!i10b 1
+!s100 I_M>cXTTVMO=:]W6`@8?`3
+I:3o]Sa;3;^cT<>OM229[:0
+R2
+R0
+w1610394638
+8../tb/ps2_data_out.v
+F../tb/ps2_data_out.v
+L0 6
+R5
+r1
+!s85 0
+31
+R6
+R10
+R11
+!i113 1
+R9
+vtb
+R1
+!i10b 1
+!s100 cXOOBW@T=WDi9O8<z@fD=0
+IeIYTE62^B8;F]EXOEiU;@2
+R2
+R0
+w1608705530
+8../tb/tb.v
+F../tb/tb.v
+L0 6
+R5
+r1
+!s85 0
+31
+R6
+R10
+R11
+!i113 1
+R9
+vtop
+R1
+!i10b 1
+!s100 CJ_BU6i?QFjHbCiA4h?=A0
+IbGLJk9MFiA@jieo3eWM`i0
+R2
+R0
+w1608743187
+8../top.v
+F../top.v
+L0 4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
